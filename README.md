@@ -1,4 +1,22 @@
 # Prerequisites
+	JavaScript
+	Solidity
+	React 
+	Visual Studio Code
+	HTML
+	CSS
+	Smart Contracts. 
+	Node Modules
+	Npm Package Manager
+	Hardhat
+	VITE
+	Tailwind CSS
+	Alchemy API
+	GIF API
+	MetaMask
+	Testnet
+
+
 # Overview
 The Banking Transactions Application is a cool online tool that makes it easier to do money transfers. It uses something called blockchain technology, which is a super safe and open way to do transactions.
 
